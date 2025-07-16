@@ -14,21 +14,7 @@ Berminat di bidang web developer/Pemrograman Android dan data science
 ![](https://nirzak-streak-stats.vercel.app/?user=Wildandeciyan&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wildandeciyan&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wildandeciyan/wildandeciyan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wildandeciyan/wildandeciyan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wildandeciyan/wildandeciyan/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <img src="https://raw.githubusercontent.com/wildandeciyan/wildandeciyan/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=wildandeciyan.wildandeciyan&"  />
-</div>
 
 ###
 
