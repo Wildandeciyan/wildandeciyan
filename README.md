@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Wildandeciyan/Wildandeciyan/main/github-header.png" alt="GitHub Banner" />
 </p>
-Saya seorang mahasiswa Teknik Informatika yang berminat di bidang web developer/Pemrograman Android dan data science
+Berminat di bidang web developer/Pemrograman Android dan data science
 
 
 ## 🌐 Socials:
