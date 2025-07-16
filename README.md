@@ -1,5 +1,5 @@
 # 💫 About Me:
-Saya seorang mahasiswa Teknik Informatika yang berminat di bidang web developer/Pemrograman Android
+Saya seorang mahasiswa Teknik Informatika yang berminat di bidang web developer/Pemrograman Android dan data science
 
 
 ## 🌐 Socials:
